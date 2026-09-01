@@ -1,5 +1,4 @@
 import About from "./components/sections/about/page";
-import CertificationsSection from "./components/sections/certifications/CertificationsSection";
 import ContactSection from "./components/sections/contact/ContactSection";
 import EducationSection from "./components/sections/education/EducationSection";
 import ExperienceSection from "./components/sections/experience/ExperienceSection";
